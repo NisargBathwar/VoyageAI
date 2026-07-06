@@ -12,11 +12,11 @@ The project is built using **Kotlin Multiplatform (KMP)** with shared business l
 ## 🤖 Android
 
 <p align="center">
-  <img src="screenshots/Android/Screenshot_20260706_092403.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092431.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092439.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092532.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092544.png" width="180"/>
+  <img src="screenshots/Android/Screenshot_20260706_092403.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092431.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092439.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092532.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092544.png" width="160"/>
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@ The project is built using **Kotlin Multiplatform (KMP)** with shared business l
 <br>
 
 <p align="center">
-  <img src="screenshots/Android/Screenshot_20260706_092551.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092629.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092645.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092658.png" width="180"/>
-  <img src="screenshots/Android/Screenshot_20260706_092704.png" width="180"/>
+  <img src="screenshots/Android/Screenshot_20260706_092551.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092629.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092645.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092658.png" width="160"/>
+  <img src="screenshots/Android/Screenshot_20260706_092704.png" width="160"/>
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ The project is built using **Kotlin Multiplatform (KMP)** with shared business l
 ## 🍎 iOS
 
 <p align="center">
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.32.42.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.18.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.26.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.32.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.51.png" width="180"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.32.42.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.18.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.26.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.32.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.51.png" width="160"/>
 </p>
 
 <p align="center">
@@ -68,11 +68,11 @@ The project is built using **Kotlin Multiplatform (KMP)** with shared business l
 <br>
 
 <p align="center">
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.59.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.22.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.30.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.40.png" width="180"/>
-  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.49.png" width="180"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.33.59.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.22.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.30.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.40.png" width="160"/>
+  <img src="screenshots/IOS/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-07-06%20at%2009.34.49.png" width="160"/>
 </p>
 
 <p align="center">
